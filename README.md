@@ -1,2 +1,1 @@
-# My-first-Calculator
-My first Calculator using HTML, CSS and Java Script
+A responsive calculator interface built with HTML,CSS and JavaScript
